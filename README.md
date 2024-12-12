@@ -8,10 +8,10 @@ This repository will be about the 72 hour GAAC Hackathon.
       * Aithi Aditya Sai Mouleendra
       * Bhargav Padala
   * Email ID's:
-      * Mouleendra :
+      * Mouleendra : aaithi@gitam.in
       * Bhargav : bpadala@gitam.in
   * LinkedIn ID's :
-      * Mouleendra :
+      * Mouleendra : linkedin.com/in/aithi-aditya-sai-mouleendra-b7349724b
       * Bhargav : linkedin.com/in/bhargav-padala-b636ab24a
   * GitHub connection :
       * Do we follow each on other on Gitub : Yes
