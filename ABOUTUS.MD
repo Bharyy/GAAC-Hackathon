@@ -22,7 +22,7 @@ Real-time Disaster Prediction and Mitigation system.
   * Early predictions and effective mitigation strategies can reduce the impact on affected communities.
 * Solution overview: 
   * Developing an AI model that integrates multi-modal data sources like satellite imagery, seismic activity logs, and weather patterns. 
-  * Incorporating explainable AI techniques to provide justifiable predictions, and actionable recommendations. 
+  * Incorporating explainable AI techniques to provide justifiable predictions. 
 # Tech stack : 
   * Programming languages: Python
   * Frameworks: TensorFlow, PyTorch, Scikit-learn
