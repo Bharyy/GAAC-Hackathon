@@ -11,7 +11,7 @@
 * Do we follow each other on GitHub ?
   * Yes
 * Super thrilled for the hackathon, 10/10. Can't wait to dive into and work.
-* THEME CHOSEN
+* Theme Chosen: 
   * The theme we have chosen is AI/ML. AI/ML offers endless possibilities, and it's an uncharted territory for us in hackathons.We're ready to step out of our comfort zones, dive into the unknown, and explore the potential of artificial intelligence and machine learning.
 * Expectations:
   * We aim to deepen our understanding and practical skills in AI/ML by working on real-world challenges. This hackathon presents an opportunity to push our boundaries, innovate. We are focused more on learning through this journey rather than solely on winning the competition.
